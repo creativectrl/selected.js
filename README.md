@@ -1,6 +1,6 @@
 # selected.js
 
-A light weight library that extends the default functionality of html select fields. In essence, this library enables you to *prevent duplicate selections of the same option value across multiple select fields*.
+A light weight library that extends the default functionality of html select fields. In essence, this library enables you to _*prevent duplicate selections of the same option value across multiple select fields*_.
 
 Usage:
 After uploading the package, simply include the plugin and specify a parent container and a selector in the options below:
