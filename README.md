@@ -7,7 +7,7 @@ to prevent duplicate selections of the same option value across multiple select 
 Usage:
 After uploading the package, simply include the plugin and specify a parent container and a selector in the options below:
 
-'''
+```
 <script type="text/javascript" src="/path/to/selected.min.js" /></script>
 
 <script type="text/javascript">
@@ -17,4 +17,4 @@ After uploading the package, simply include the plugin and specify a parent cont
 		options : [1,2,3,4]
 	});
 </script>
-'''
+```
